@@ -1,10 +1,10 @@
 # Leandro González Ruiz
 
-### AI Product Builder · Software Engineering · Applied AI
+### AI Systems Builder · Hacker · Applied Intelligence
 
 I build **AI-native software, intelligent systems, and digital products** — from product concept and system architecture to working implementations.
 
-My work sits at the intersection of **artificial intelligence, software engineering, product design, automation, and human-centered interfaces**. I use modern AI engineering workflows to move quickly while keeping architecture, maintainability, and product quality in focus.
+My work sits at the intersection of **artificial intelligence, systems building, product design, automation, and human-centered interfaces**. I use modern AI engineering workflows to move quickly while keeping architecture, maintainability, and product quality in focus.
 
 ---
 
@@ -35,7 +35,7 @@ An experimental reading product exploring adaptive digital reading, reading memo
 TypeScript · JavaScript · Python · Next.js · React · Node.js
 
 **AI & intelligent systems**  
-LLM integration · AI agents · tool orchestration · RAG · prompt/system design · AI-assisted software engineering
+LLM integration · AI agents · tool orchestration · RAG · prompt/system design · AI-assisted systems building
 
 **Data & infrastructure**  
 PostgreSQL · Prisma · REST APIs · Git/GitHub · Vercel · cloud-based deployment workflows
@@ -45,7 +45,7 @@ Design systems · rapid prototyping · data visualization · Three.js / 3D exper
 
 ## Open source
 
-I use GitHub both to build products and to study, experiment with, and contribute to open-source software. My public repositories include work and explorations around Python/TypeScript SDKs, MCP tooling, software engineering benchmarks, and industrial software ecosystems.
+I use GitHub both to build products and to study, experiment with, and contribute to open-source software. My public repositories include work and explorations around Python/TypeScript SDKs, MCP tooling, software systems benchmarks, and industrial software ecosystems.
 
 ## Principles
 
