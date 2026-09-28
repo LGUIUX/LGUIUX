@@ -19,6 +19,6 @@ Building intelligent systems and digital products.
   <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" /></a>
 </p>
 
-<sub>AI systems · agents · automation · interfaces · infrastructure</sub>
+<sub>AI systems · agents · digital twins · 3D · automation · infrastructure</sub>
 
 > Dreaming with a valley
