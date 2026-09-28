@@ -15,7 +15,7 @@ Building intelligent systems and digital products.
   <a href="https://threejs.org/"><img src="https://skillicons.dev/icons?i=threejs" width="40" alt="Three.js" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /></a>
-  <a href="https://github.com/features/codespaces"><img src="https://cdn.simpleicons.org/githubcodespaces" width="40" height="40" alt="GitHub Codespaces" /></a>
+  <a href="https://github.com/features/codespaces"><img src="https://github.githubassets.com/images/modules/codespaces/codespaces-icon.png" width="40" height="40" alt="GitHub Codespaces" /></a>
   <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" /></a>
 </p>
 
