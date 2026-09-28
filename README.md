@@ -44,4 +44,4 @@ Prototype quickly. Validate aggressively. Engineer for the long term.
 
 AI engineering · autonomous software systems · agentic workflows · multimodal interfaces · developer tooling · human-computer interaction
 
-**Based in the Dominican Republic · Building for the web and beyond.**
+**Dreaming with a valley**
