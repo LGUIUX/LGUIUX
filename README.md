@@ -18,8 +18,14 @@ Building intelligent systems and digital products.
   <a href="https://github.com/features/codespaces"><img src="./assets/codespaces.svg" width="40" height="40" alt="GitHub Codespaces" /></a>
   <a href="https://modelcontextprotocol.io/"><img src="./assets/mcp.svg?v=2" width="40" height="40" alt="Model Context Protocol" /></a>
   <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" /></a>
+  <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" width="40" alt="Blender" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI" /></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="40" alt="Supabase" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="40" alt="Redis" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" /></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" /></a>
 </p>
 
-<sub>AI systems · agents · digital twins · 3D · automation · infrastructure</sub>
+<sub>AI systems · agents · conversational systems · data platforms · APIs · digital twins · automation</sub>
 
 > Dreaming with a valley
