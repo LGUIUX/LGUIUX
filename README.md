@@ -1,33 +1,18 @@
 # Leandro González Ruiz
 
-### AI Systems Builder · Hacker · Applied Intelligence
+### AI Systems Builder · Applied Intelligence
 
-I build **AI-native software, intelligent systems, and digital products** — from product concept and system architecture to working implementations.
+I build **AI-native software, intelligent systems, and digital products** , from product concept and system architecture to working implementations.
 
 My work sits at the intersection of **artificial intelligence, systems building, product design, automation, and human-centered interfaces**. I use modern AI engineering workflows to move quickly while keeping architecture, maintainability, and product quality in focus.
 
----
-
 ## What I build
 
-- **AI-native products** — software designed around models, agents, tool use, and intelligent workflows.
-- **Full-stack applications** — product interfaces, APIs, databases, authentication, and production workflows.
-- **Automation systems** — AI-assisted operational workflows and integrations.
-- **Interactive systems** — experimental interfaces, 2D/3D experiences, visualization, and real-time product concepts.
-- **Applied AI prototypes** — turning research and emerging capabilities into testable products.
-
-## Current work
-
-### DENTAX
-An AI-oriented dental software platform in active development, exploring clinical workflows, patient and appointment management, automation, analytics, and interactive dental visualization.
-
-### English Pro EVP
-A digital learning ecosystem focused on spoken-English practice, combining web experiences, conversational AI, automation, and student-management workflows.
-
-### Reader
-An experimental reading product exploring adaptive digital reading, reading memory, ink-centered interaction, and optional gaze-aware experiences.
-
-> Some products are currently developed in private repositories. Public technical material will be released when appropriate.
+- **AI-native products** , software designed around models, agents, tool use, and intelligent workflows.
+- **Full-stack applications** , product interfaces, APIs, databases, authentication, and production workflows.
+- **Automation systems** , AI-assisted operational workflows and integrations.
+- **Interactive systems** , experimental interfaces, 2D/3D experiences, visualization, and real-time product concepts.
+- **Applied AI prototypes** , turning research and emerging capabilities into testable products.
 
 ## Engineering stack
 
@@ -54,8 +39,6 @@ Build from first principles.
 Use AI as an engineering multiplier, not a substitute for architecture.
 Prototype quickly. Validate aggressively. Engineer for the long term.
 ```
-
----
 
 ### Currently exploring
 
