@@ -16,7 +16,7 @@ Building intelligent systems and digital products.
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /></a>
   <a href="https://github.com/features/codespaces"><img src="./assets/codespaces.svg" width="40" height="40" alt="GitHub Codespaces" /></a>
-  <a href="https://modelcontextprotocol.io/"><img src="https://cdn.simpleicons.org/modelcontextprotocol" width="40" height="40" alt="Model Context Protocol" /></a>
+  <a href="https://modelcontextprotocol.io/"><img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" width="40" height="40" alt="Model Context Protocol" style="background-color:#ffffff;padding:4px;border-radius:8px;" /></a>
   <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" /></a>
 </p>
 
