@@ -1,4 +1,4 @@
-# Leandro González 
+# Leandro Gonzalez 
 
 **AI Systems Builder · Applied Intelligence**
 
